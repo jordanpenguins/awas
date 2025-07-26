@@ -1,4 +1,4 @@
-# FIT3182 Collaborative Docker Setup
+# FIT3182 AWAS System
 
 
 ## Overview
