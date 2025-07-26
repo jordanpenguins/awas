@@ -16,7 +16,11 @@ The system design of the project is based on the image **below**
 
 # Data Visualisation
 
-With the provided and post-processing of the data, we are able to visualise the number of violations onto a map to determine where the violations have taken place and the frequency of the violations within a time period. 
+With the provided and post-processing of the data, we are able to visualise the number of violations onto a map to determine, where the violations have occurred and the frequency of the violations within a time period. 
+
+![Visualisation Preview 1](FIT3182_A2_Fig_1%20().png)
+![Visualisation Preview 2](FIT3182_A2_Fig_1%20().png)
+![Visualisation Preview 3](FIT3182_A2_Fig_1%20().png)
 
 
 
